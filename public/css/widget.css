@@ -1,0 +1,475 @@
+  
+/*Style to the article image*/
+.rdgWidgetImageStyle{
+    width: 400px;
+    height: 300px;
+    background-size: contain;
+    background-repeat: no-repeat;
+
+}
+
+.titleWidget{
+    font-size: 20px;
+    font-family: Trebuchet MS, arial;
+    font-weight: 500;
+    line-height: 24px;
+    color: #0e293c;
+}
+
+.snippetWidget{
+    font-size: 14px;
+    font-weight: 400;
+    font-family: Trebuchet MS, arial;
+    color:#989fa5;
+}
+
+.nullStyle{
+    text-decoration: none;
+    color:black;
+}
+
+
+@media (max-width: 1310px) {
+    .rdgWidgetImageStyle{
+        width: 395px;
+        height: 300px;
+    
+    }
+  }
+
+@media (max-width: 1310px) {
+    .rdgWidgetImageStyle{
+        width: 380px;
+        height: 300px;
+      
+    }
+  }
+
+  @media (max-width: 1290px) {
+    .rdgWidgetImageStyle{
+        width: 375px;
+        height: 295px;
+      
+    }
+  }
+  @media (max-width: 1280px) {
+    .rdgWidgetImageStyle{
+        width: 370px;
+        height: 285px;
+      
+    }
+  }
+  @media (max-width: 1270px) {
+    .rdgWidgetImageStyle{
+        width: 365px;
+        height: 280px;
+      
+    }
+  }
+  @media (max-width: 1260px) {
+    .rdgWidgetImageStyle{
+        width: 355px;
+        height: 270px;
+      
+    }
+  }
+  @media (max-width: 1250px) {
+    .rdgWidgetImageStyle{
+        width: 345px;
+        height: 260px;
+      
+    }
+  }
+
+@media (max-width: 1220px) {
+    .rdgWidgetImageStyle{
+        width: 335px;
+        height: 250px;
+      
+    }
+  }
+
+  @media (max-width: 1210px) {
+    .rdgWidgetImageStyle{
+        width: 325px;
+        height: 240px;
+      
+    }
+  }
+  @media (max-width: 1190px) {
+    .rdgWidgetImageStyle{
+        width: 315px;
+        height: 230px;
+      
+    }
+  }
+  @media (max-width: 1150px) {
+    .rdgWidgetImageStyle{
+        width: 305px;
+        height: 220px;
+      
+    }
+  }
+
+  @media (max-width: 1110px) {
+    .rdgWidgetImageStyle{
+        width: 295px;
+        height: 210px;
+      
+    }
+  }
+
+  @media (max-width: 1030px) {
+    .rdgWidgetImageStyle{
+        width: 285px;
+        height: 200px;
+      
+    }
+  }
+
+  @media (max-width: 970px) {
+    .rdgWidgetImageStyle{
+        width: 275px;
+        height: 190px;
+      
+    }
+  }
+  @media (max-width: 940px) {
+    .rdgWidgetImageStyle{
+        width: 265px;
+        height: 180px;
+      
+    }
+  }
+  @media (max-width: 900px) {
+    .rdgWidgetImageStyle{
+        width: 255px;
+        height: 170px;
+      
+    }
+  }
+  @media (max-width: 860px) {
+    .rdgWidgetImageStyle{
+        width: 250px;
+        height: 165px;
+      
+    }
+  }
+  @media (max-width: 830px) {
+    .rdgWidgetImageStyle{
+        width: 245px;
+        height: 160px;
+      
+    }
+  }
+  @media (max-width: 810px) {
+    .rdgWidgetImageStyle{
+        width: 240px;
+        height: 155px;
+      
+    }
+  }
+
+  @media (max-width: 767px) {
+    .rdgWidgetImageStyle{
+        width: 650px;
+        height: 550px;
+      
+    }
+  }
+  @media (max-width: 720px) {
+    .rdgWidgetImageStyle{
+        width: 630px;
+        height: 530px;
+      
+    }
+  }
+  @media (max-width: 700px) {
+    .rdgWidgetImageStyle{
+        width: 620px;
+        height: 520px;
+      
+    }
+  }
+  @media (max-width: 680px) {
+    .rdgWidgetImageStyle{
+        width: 600px;
+        height: 500px;
+      
+    }
+  }
+  @media (max-width: 660px) {
+    .rdgWidgetImageStyle{
+        width: 580px;
+        height: 480px;
+      
+    }
+  }
+  @media (max-width: 640px) {
+    .rdgWidgetImageStyle{
+        width: 560px;
+        height: 460px;
+      
+    }
+  }
+  @media (max-width: 620px) {
+    .rdgWidgetImageStyle{
+        width: 540px;
+        height: 440px;
+      
+    }
+  }
+  @media (max-width: 600px) {
+    .rdgWidgetImageStyle{
+        width: 520px;
+        height: 420px;
+      
+    }
+  }
+  @media (max-width: 580px) {
+    .rdgWidgetImageStyle{
+        width: 500px;
+        height: 400px;
+      
+    }
+  }
+  @media (max-width: 560px) {
+    .rdgWidgetImageStyle{
+        width: 480px;
+        height: 380px;
+      
+    }
+  }
+  @media (max-width: 540px) {
+    .rdgWidgetImageStyle{
+        width: 460px;
+        height: 360px;
+      
+    }
+  }
+  @media (max-width: 520px) {
+    .rdgWidgetImageStyle{
+        width: 440px;
+        height: 340px;
+      
+    }
+  }
+  @media (max-width: 500px) {
+    .rdgWidgetImageStyle{
+        width: 420px;
+        height: 320px;
+      
+    }
+  }
+  @media (max-width: 480px) {
+    .rdgWidgetImageStyle{
+        width: 400px;
+        height: 300px;
+      
+    }
+  }  
+  @media (max-width: 460px) {
+    .rdgWidgetImageStyle{
+        width: 380px;
+        height: 280px;
+      
+    }
+  }
+  @media (max-width: 440px) {
+    .rdgWidgetImageStyle{
+        width: 360px;
+        height: 260px;
+      
+    }
+  }
+  @media (max-width: 420px) {
+    .rdgWidgetImageStyle{
+        width: 340px;
+        height: 240px;
+      
+    }
+  }
+  @media (max-width: 400px) {
+    .rdgWidgetImageStyle{
+        width: 320px;
+        height: 220px;
+      
+    }
+  }
+  @media (max-width: 380px) {
+    .rdgWidgetImageStyle{
+        width: 300px;
+        height: 200px;
+      
+    }
+  }
+  @media (max-width: 360px) {
+    .rdgWidgetImageStyle{
+        width: 280px;
+        height: 180px;
+      
+    }
+  }
+  @media (max-width: 340px) {
+    .rdgWidgetImageStyle{
+        width: 260px;
+        height: 160px;
+      
+    }
+  }
+  @media (max-width: 320px) {
+    .rdgWidgetImageStyle{
+        width: 240px;
+        height: 140px;
+      
+    }
+  }
+  @media (max-width: 300px) {
+    .rdgWidgetImageStyle{
+        width: 220px;
+        height: 120px;
+      
+    }
+  }
+  @media (max-width: 280px) {
+    .rdgWidgetImageStyle{
+        width: 200px;
+        height: 100px;
+      
+    }
+  }
+/*
+@media (max-width: 766px) {
+    .rdgWidgetImageStyle{
+        width: 175px;
+        height: 125px;
+      
+    }
+    .titleWidget{
+        font-size: 12px;
+    }
+    .snippetWidget{
+        font-size: 11px;
+    }
+  }
+
+@media (max-width: 600px) {
+    .rdgWidgetImageStyle{
+        width: 165px;
+        height: 115px;
+      
+    }
+    .titleWidget{
+        font-size: 11px;
+    }
+    .snippetWidget{
+        font-size: 10px;   
+    }
+  }
+
+    @media (max-width: 570px) {
+        .rdgWidgetImageStyle{
+            width: 155px;
+            height: 105px;
+          
+        }
+        .titleWidget{
+            font-size: 11px;
+        }
+      }
+
+@media (max-width: 530px) {
+    .rdgWidgetImageStyle{
+        width: 145px;
+        height: 95px;
+      
+    }
+    .titleWidget{
+        font-size: 11px;
+    }
+  }
+
+  @media (max-width: 490px) {
+    .rdgWidgetImageStyle{
+        width: 140px;
+        height: 90px;
+      
+    }
+    .titleWidget{
+        font-size: 11px;
+    }
+  }
+
+  @media (max-width: 450px) {
+    .rdgWidgetImageStyle{
+        width: 130px;
+        height: 80px;
+      
+    }
+    .titleWidget{
+        font-size: 11px;
+    }
+  }
+
+  @media (max-width: 410px) {
+    .rdgWidgetImageStyle{
+        width: 125px;
+        height: 75px;
+      
+    }
+    .titleWidget{
+        font-size: 10px;
+    }
+    .snippetWidget{
+        font-size: 9px;
+    }
+  }
+
+  @media (max-width: 380px) {
+    .rdgWidgetImageStyle{
+        width: 123px;
+        height: 68px;
+      
+    }
+    .titleWidget{
+        font-size: 10px;
+    }
+  }
+
+  @media (max-width: 350px) {
+    .rdgWidgetImageStyle{
+        width: 110px;
+        height: 60px;
+      
+    }
+    .titleWidget{
+        font-size: 9px;
+    }
+    .snippetWidget{
+        font-size: 8px;        
+    }
+  }
+
+  @media (max-width: 325px) {
+    .rdgWidgetImageStyle{
+        width: 100px;
+        height: 50px;
+      
+    }
+    .titleWidget{
+        font-size: 9px;
+    }
+  }
+
+  @media (max-width: 275px) {
+    .rdgWidgetImageStyle{
+        width: 70px;
+        height: 40px;
+      
+    }
+    .titleWidget{
+        font-size: 9px;
+    }
+  }
+
+  */
